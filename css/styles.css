@@ -1,0 +1,27 @@
+h1{
+    font-size: 18px;
+    color:#000;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+table{
+    
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,.03);
+    border-radius: 10px;
+    margin: auto;
+}
+th,td{
+    
+    border: 1px solid #f2f2f2;
+    padding: 8px 30px;
+    text-align: center;
+    color: grey;
+}
+th{
+text-transform: uppercase;
+font-weight: 500;
+}
+td{font-size: 13px;}
